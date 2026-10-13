@@ -1,6 +1,6 @@
 cask "snapped" do
-  version "0.1.28"
-  sha256 "5b59866e77c631c8317a2841bc27855c52b0d7f5086edda63bcfc2b0bcc026ff"
+  version "0.1.29"
+  sha256 "a950ff7acfff02b16c3d22b1840b3d353514e619cf0ea12f1b82f8ca917e078e"
 
   url "https://github.com/tompodab/snapped/releases/download/#{version}/Snapped-#{version}.dmg"
   name "Snapped"
